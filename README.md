@@ -6,7 +6,7 @@
 
 - 🥷 Currently, I am dedicating myself to Compuetr Network research, that network has no relation to the AI world (_which I believe it's worthwhile to mention nowadays. 🤡 But I sometimes may play with the neural networks. Hence I have a network of networks installed in my brain 🧠_)
 
-- 🏠 Now, I am based in Chicago area, Accurately, jailed in my apartment due to the COVID pandemic.
+- 🏠 Now, I am based in Chicago area, accurately, jailed in my apartment due to the COVID pandemic.
 
 - 📖 Read more? Please checkout my [homepage](https://senlin.dev).
 
