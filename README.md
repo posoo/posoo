@@ -8,7 +8,7 @@
 
 - 🏠 Now, I am based in Chicago area, accurately, jailed in my apartment due to the COVID pandemic.
 
-- 📖 Read more? Please checkout my [homepage](https://senlin.dev).
+- 📖 Read more? Please check my [homepage](https://senlin.dev).
 
 
 
