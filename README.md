@@ -1,14 +1,14 @@
-### $ whoami
+## $ whoami
 
-- 👋 I am Sen Lin, aka [@posoo](https://github.com/posoo), a rookie Ph.D. student in Computer Science at Northwestern Univeristy.
+Hi, I’m Sen Lin, aka [@posoo](https://github.com/posoo). I’m a Ph.D. student in Computer Science at Northwestern University. My expertise lies in **computer networks and systems**, with a focus on optimizing _user-facing_ network performance holistically across layers and dimensions. Recently, I’ve been diving into **multimedia streaming** and **data center networks**.
 
-- 🐣 I have been working on a wide variety of projects from edge to cloud, at a hello-world level.
+## $ grep "opportunities" ~/career_path
 
-- 🥷 Currently, I am dedicating myself to Compuetr Network research, that network has no relation to the AI world (_which I believe it's worthwhile to mention nowadays. 🤡 But I sometimes may play with the neural networks. Hence I have a network of networks installed in my brain 🧠_)
+I am actively seeking **research and engineering roles in industry** for the **Fall 2025** job market. If you’re hiring, let’s [connect](https://www.linkedin.com/in/senlin-posoo/)!
 
-- 🏠 Now, I am based in Chicago area, accurately, jailed in my apartment due to the COVID pandemic.
+## $ cat /dev/portfolio
 
-- 📖 Read more? Please check my [homepage](https://senlin.dev).
+Please check out my [homepage](https://senlin.dev) to learn more.
 
 
 
